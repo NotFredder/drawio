@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T19:28:55.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0 (Edition Yx GX)" etag="xFZlXFEVNdUBi4W3oSAQ" version="24.4.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1639" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="QB3_L4xRmBHAh8lr2uvk-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;class Munchkin:&lt;/div&gt;&lt;div&gt;def __init__(self, name, age):&lt;/div&gt;&lt;div&gt;self.name = name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;self.age = age&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="50" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-0" target="QB3_L4xRmBHAh8lr2uvk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-0" value="&lt;div&gt;def info(self):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return f&quot;{self.name} в возрасте{self.age} лет&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-2" target="QB3_L4xRmBHAh8lr2uvk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-2" value="&lt;div&gt;def act(self):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return &quot;жуёт&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="187.5" y="320" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-4" target="QB3_L4xRmBHAh8lr2uvk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-4" value="&lt;div&gt;class Winkie:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def __init__(self, name,age):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;self.name = name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;self.age = age&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="173.75" y="430" width="141.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-9" target="QB3_L4xRmBHAh8lr2uvk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-9" value="&lt;div&gt;def info(self):&lt;/div&gt;&lt;div&gt;return f&quot;{self.name} в возрасте {self.age} лет&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170.63" y="570" width="148.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-11" target="QB3_L4xRmBHAh8lr2uvk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-11" value="&lt;div&gt;def act(self):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return &quot;подмигивает&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="174.69" y="690" width="139.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-18" target="QB3_L4xRmBHAh8lr2uvk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-18" value="&lt;div&gt;class Quadling:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def __init__(self, name,age):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;self.name = name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;self.age = age&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163.68" y="800" width="162.65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-20" target="QB3_L4xRmBHAh8lr2uvk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-20" value="&lt;div&gt;def info(self)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return f&quot;{self.name} в возрасте {self.age} лет&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="168.43" y="930" width="153.15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-22" target="QB3_L4xRmBHAh8lr2uvk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-22" value="&lt;div&gt;def act(self):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return &quot;болтает&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="184.22" y="1050" width="121.57" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QB3_L4xRmBHAh8lr2uvk-26" target="QB3_L4xRmBHAh8lr2uvk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-26" value="&lt;div&gt;persons = [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Munchkin(&quot;Илья&quot;, 17), Winkie(&quot;Лев&quot;, 15), Quadling(&quot;Ольга&quot;, 16)&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175.38" y="1150" width="137.99" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QB3_L4xRmBHAh8lr2uvk-28" value="&lt;div&gt;for person in persons:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(person.info(), person.act())&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="176.07" y="1290" width="137.99" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
